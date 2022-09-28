@@ -1,7 +1,6 @@
 # R10521517 鍾慕捷
 
 import streamlit as st
-import matplotlib.pyplot as plt 
 from snownlp import SnowNLP
 import time
 
